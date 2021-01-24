@@ -23,6 +23,10 @@ body {
     border-image: linear-gradient(to right, #16bffd, #cb3066) 1;
 } 
 
+.main {
+    margin-top: 1.5rem;
+}
+
 .title {
     padding: 1rem 0;
     display: inline-block;
